@@ -1,4 +1,4 @@
 # 100mdash
 My First Repo
 
-i love :kiss: :Heart:
+i love :kiss: :heart:
